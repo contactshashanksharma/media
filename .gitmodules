@@ -1,0 +1,6 @@
+[submodule "libva"]
+	path = libva
+	url = https://github.com/intel/libva.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
